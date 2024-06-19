@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Birthdate_switch-slider</name>
+   <tag></tag>
+   <elementGuidId>d80236aa-17f2-4719-86b0-86990037e607</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.switch-slider.checked</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='custom-toggle-birthdate']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e68c1287-3af4-4dbb-b24f-177ddd8d9686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switch-slider checked </value>
+      <webElementGuid>5f6bbec1-0eb4-45db-a441-7c4a83ce1702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom-toggle-birthdate&quot;)/label[@class=&quot;horizontal-switch&quot;]/span[@class=&quot;switch-slider checked&quot;]</value>
+      <webElementGuid>ca045a15-5345-480f-8ac0-dff164989772</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='custom-toggle-birthdate']/label/span</value>
+      <webElementGuid>5ceab332-1d8a-436e-b4b1-73020902ca21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span/label/span</value>
+      <webElementGuid>f466ff19-ff3b-46e1-9a61-929a33a3da84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

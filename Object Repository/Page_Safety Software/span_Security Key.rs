@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Security Key</name>
+   <tag></tag>
+   <elementGuidId>be6dadd5-79c6-4e8c-8244-34ed88ce87fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='settings-item-SecurityKey']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#settings-item-SecurityKey</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5137a27e-dcac-49b3-a53b-a7adbfcf6665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>settings-item-SecurityKey</value>
+      <webElementGuid>6a0eb66b-5b98-493b-a0db-221f066b9983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>settings-item-info-name no-margin-left </value>
+      <webElementGuid>68443276-e1a4-4015-b3fd-725a5f77904f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Security Key</value>
+      <webElementGuid>ffe70e93-0b11-4170-b4b0-86ced90f48b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;settings-item-SecurityKey&quot;)</value>
+      <webElementGuid>def1d72a-b901-4de1-90df-3151581e72c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='settings-item-SecurityKey']</value>
+      <webElementGuid>c81ac62d-d0db-4ab2-ae66-29077d73f5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bisadmin-container']/div[2]/div/div/div/div/span</value>
+      <webElementGuid>a9edefc2-e9d7-4df8-b264-a9e54c8e7000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIS Admin'])[2]/following::span[1]</value>
+      <webElementGuid>41f0fde6-e134-4b67-9f62-56e3af5e7c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::span[3]</value>
+      <webElementGuid>e69381bf-eaaa-47c5-ae69-994f7f3c15e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='securitykeys@bistraining.ca'])[1]/preceding::span[6]</value>
+      <webElementGuid>ca30ef7f-fd13-44a7-a743-6e5eeef84a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>ed4eced8-b155-41dc-b4e0-e007f49f1861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'settings-item-SecurityKey' and (text() = 'Security Key' or . = 'Security Key')]</value>
+      <webElementGuid>5ab784cd-407f-4154-be85-fbd04ec51184</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

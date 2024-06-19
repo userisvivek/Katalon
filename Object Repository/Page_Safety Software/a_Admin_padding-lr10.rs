@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Admin_padding-lr10</name>
+   <tag></tag>
+   <elementGuidId>d2dcbf5e-e09f-41b7-9b46-ec58f4b45330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reactRoot']/div/header/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.padding-lr10</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f25787d-82b6-47c9-bd03-e4df05e87762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-lr10</value>
+      <webElementGuid>3f31a2ae-94d2-4f95-88a6-c8c4dd0cf8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/v1/index.cfm?action=portal.companyInformation</value>
+      <webElementGuid>0c420212-1c4e-43b7-bb47-9c91598d97ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reactRoot&quot;)/div[@class=&quot;main-content-wrapper&quot;]/header[@class=&quot;title-bar clearfix&quot;]/div[@class=&quot;custom-row&quot;]/div[@class=&quot;col-2&quot;]/div[@class=&quot;col-xs-2 d-flex justify-content-end&quot;]/a[@class=&quot;padding-lr10&quot;]</value>
+      <webElementGuid>4ba8421e-79d9-4b8b-b09d-4cd9c63f2982</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reactRoot']/div/header/div/div[2]/div/a</value>
+      <webElementGuid>1a7a005c-cac4-4336-a8d9-80bd6c72ef3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[2]/following::a[1]</value>
+      <webElementGuid>5ceeb5c0-a183-480f-b833-774fafb4771f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::a[1]</value>
+      <webElementGuid>edba4f4c-dfd9-4892-8a4e-dbbaac0e2bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Global Modules'])[1]/preceding::a[30]</value>
+      <webElementGuid>6a052e31-153f-4265-b313-aaf5274e96dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::a[37]</value>
+      <webElementGuid>091238de-5279-4a7d-967d-3310ea2edddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/v1/index.cfm?action=portal.companyInformation')]</value>
+      <webElementGuid>212c1b08-96b3-4c76-8153-bbcd81fc2d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>22c9ff1d-c6a7-45da-853b-de071142c726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/v1/index.cfm?action=portal.companyInformation']</value>
+      <webElementGuid>30179582-dc24-45ae-baa4-07834308560e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BIS Admin tab</name>
+   <tag></tag>
+   <elementGuidId>43c14f99-e014-4667-a3fb-1918e94f35e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-text-BISAdmin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-text-BISAdmin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4898d71-6600-4557-ac74-9f5033448440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu-text-BISAdmin</value>
+      <webElementGuid>53d79cdb-547a-4a26-ac82-b9c4dc09bed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text reveal</value>
+      <webElementGuid>82eb4dd8-208d-4f84-ab25-75e058f6ea97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BIS Admin</value>
+      <webElementGuid>d25190ce-fbcd-41c3-a5ce-b3fc228775dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-text-BISAdmin&quot;)</value>
+      <webElementGuid>2df07e6f-8c2a-4ab9-ac91-f36343d988b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='menu-text-BISAdmin']</value>
+      <webElementGuid>73fe7e5f-b218-446b-b8c7-c95f0f432b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-items-container']/div[7]/div</value>
+      <webElementGuid>8b678be5-7c6d-4573-b0d2-79e09c8abfa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integration'])[1]/following::div[2]</value>
+      <webElementGuid>4d5bab80-d8ef-4e3b-a54e-eadd932936ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Management'])[1]/following::div[4]</value>
+      <webElementGuid>b2438153-dbd7-4d56-9a35-1bf9488c1762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::div[1]</value>
+      <webElementGuid>8c72df1e-00e8-49ee-b76c-493d40214cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Information'])[2]/preceding::div[3]</value>
+      <webElementGuid>8c4fec2e-9d8e-4a17-9c19-dc4e7604483f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BIS Admin']/parent::*</value>
+      <webElementGuid>59b17438-ca42-43f4-9368-0f8a6e33dfda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div</value>
+      <webElementGuid>10100fde-6d4e-4023-8a77-618d1e04bf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'menu-text-BISAdmin' and (text() = 'BIS Admin' or . = 'BIS Admin')]</value>
+      <webElementGuid>c6978aea-55a1-45db-aa08-e74641513509</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
