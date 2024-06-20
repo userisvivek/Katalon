@@ -65,9 +65,11 @@ currentWindow = WebUI.getWindowIndex()
 
 WebUI.switchToWindowIndex(currentWindow + 1)
 
+WebUI.delay(2)
+
 WebUI.navigateToUrl(user_profile)
 
 'Verify that the attribute is text'
 WebUI.verifyElementAttributeValue(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 
-    'Type', 'text', 0)
+    'Type', 'text', 10)
 

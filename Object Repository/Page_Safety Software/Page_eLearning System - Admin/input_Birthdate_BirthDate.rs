@@ -6,12 +6,16 @@
    <elementGuidId>a2811d3e-f2ab-4a2b-83d2-39735e9017d7</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'BirthDate' and @id = 'BirthDate']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#BirthDate</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[14]/div/div/input</value>
+         <value>(//label[@for='BirthDateDemographics']//following::div//input)[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b5fd0909-d1f9-4d86-84d7-0cc3a305b903</webElementGuid>
+      <webElementGuid>a01b19a8-8b56-490d-84ee-702c6faad1a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1b032b61-1100-4813-954c-453f70feb691</webElementGuid>
+      <webElementGuid>43e28c3f-7a4b-48c8-b3f5-1d5eb2c308c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>name</name>
       <type>Main</type>
       <value>BirthDate</value>
-      <webElementGuid>faf80f90-08cb-40dc-9f27-0635ca211f1b</webElementGuid>
+      <webElementGuid>be6f14f8-b88f-41e4-adaf-739edb684b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>!(vmpUserObj.birthdateencrypt == 1)</value>
-      <webElementGuid>8dbf64ec-9140-4a43-abed-9b2cdea43e71</webElementGuid>
+      <webElementGuid>7795c1b7-1ce9-4b1c-98c3-ffac08df8814</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>uib-datepicker-popup</name>
       <type>Main</type>
       <value>dd-MMMM-yyyy</value>
-      <webElementGuid>2cc72c13-3781-4f85-8e67-70463b167a45</webElementGuid>
+      <webElementGuid>18f3a3c2-9b10-4913-894b-42fb8afcfea0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>vmpUserObj.birthdate</value>
-      <webElementGuid>7e6db8e8-4aa4-428a-8a71-a853efa2c099</webElementGuid>
+      <webElementGuid>92af601f-93ec-41bd-872c-101a531d4c86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>ng-change</name>
       <type>Main</type>
       <value>checkDobMaxDateExceeded()</value>
-      <webElementGuid>014ce918-cdeb-40d6-909c-753448767cd7</webElementGuid>
+      <webElementGuid>394df929-4515-4772-9b30-25dda6f52136</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>is-open</name>
       <type>Main</type>
       <value>popup.popup1.opened</value>
-      <webElementGuid>39bfdb93-f7b3-44cf-a857-e18714ba088b</webElementGuid>
+      <webElementGuid>b0411966-1147-4ba6-b291-e0b9f11d07d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>datepicker-options</name>
       <type>Main</type>
       <value>birthDateOptions</value>
-      <webElementGuid>3e410eff-8342-4dee-91b9-dd98e81a6af8</webElementGuid>
+      <webElementGuid>7825261c-1690-4a85-81c8-06e077beb484</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>close-text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>7f26d0f9-5171-42b8-ac4c-23566f3e628f</webElementGuid>
+      <webElementGuid>8fe051ee-c923-4dfa-b913-d9fdf5866cc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>alt-input-formats</name>
       <type>Main</type>
       <value>altInputFormats</value>
-      <webElementGuid>de33f806-0dc7-4f5f-aca2-27af60e4f0cc</webElementGuid>
+      <webElementGuid>5c1c3a42-a609-4847-8211-659062691f20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -111,7 +115,7 @@
       <name>id</name>
       <type>Main</type>
       <value>BirthDate</value>
-      <webElementGuid>5e26c390-2b9d-43a1-b2a6-1b02caa79ccf</webElementGuid>
+      <webElementGuid>74e17ced-c3e5-46be-a971-51386116cabc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>class</name>
       <type>Main</type>
       <value>DatePickerClass form-control ng-pristine ng-untouched ng-valid ng-scope ng-isolate-scope ng-valid-date ng-not-empty</value>
-      <webElementGuid>91de3a96-9c74-4905-888a-b8c71df2c152</webElementGuid>
+      <webElementGuid>580a8fa8-9c67-4b6a-babe-cd65d29f676d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>025d53b7-363f-4776-ada0-600ea68b38fc</webElementGuid>
+      <webElementGuid>9abdcf4a-f76b-4dba-9a64-30779068b426</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -135,38 +139,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;BirthDate&quot;)</value>
-      <webElementGuid>cebef37c-f62d-496a-9dc5-3642113622c7</webElementGuid>
+      <webElementGuid>d5049434-f975-4737-b4ac-2835bf384fa0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='BirthDate']</value>
-      <webElementGuid>fc1a354e-0f90-43bd-9090-e0ae76646817</webElementGuid>
+      <value></value>
+      <webElementGuid>523148ff-b8a6-4404-8424-9e9ffc8fe634</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/div[2]/form/div/div/div/div[2]/div[14]/div/div/input</value>
-      <webElementGuid>eccb4098-97fc-4c08-86c4-a4f13d61fdd8</webElementGuid>
+      <value></value>
+      <webElementGuid>ca794636-9981-4cca-afa0-8d8ef04235da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[14]/div/div/input</value>
-      <webElementGuid>27551af6-7926-486d-9ccf-7319bffb90bc</webElementGuid>
+      <value></value>
+      <webElementGuid>0fc06d1f-d512-4164-90b8-de94781056fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'BirthDate' and @id = 'BirthDate']</value>
-      <webElementGuid>1fa302dd-6448-4ebd-ba0d-462645f984e0</webElementGuid>
+      <value></value>
+      <webElementGuid>dd9ea9cd-b315-42f7-8b10-8c8d9ed4570a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
