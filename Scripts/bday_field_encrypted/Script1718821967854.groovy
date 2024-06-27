@@ -28,7 +28,9 @@ WebUI.sendKeys(findTestObject('Page_Safety Software/input_Please enter your user
 
 WebUI.click(findTestObject('Page_Safety Software/button_Log In'))
 
-WebUI.click(findTestObject('Page_Safety Software/Page_eLearning System - Admin/div__prof_img_icon'))
+WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('div__prof_img_icon'))
 
 WebUI.click(findTestObject('Page_Safety Software/Page_eLearning System - Admin/div_Techversant'))
 
@@ -66,11 +68,12 @@ currentWindow = WebUI.getWindowIndex()
 
 WebUI.switchToWindowIndex(currentWindow + 1)
 
-WebUI.delay(2)
-
 WebUI.navigateToUrl(user_profile)
+
+WebUI.waitForElementHasAttribute(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 
+    'Type', 5)
 
 'Verify that the attribute is text'
 WebUI.verifyElementAttributeValue(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 
-    'Type', 'password', 10)
+    'Type', 'password', 5)
 

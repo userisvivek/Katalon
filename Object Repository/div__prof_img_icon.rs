@@ -6,12 +6,16 @@
    <elementGuidId>56c8996a-a204-424c-b62e-84dedc97f7f9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.prof_img_icon</value>
+         <key>XPATH</key>
+         <value>//div[@onclick='toggleProfileSection()']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='this-header']/div[2]/div[2]/ul/li[2]/div/div</value>
+         <key>BASIC</key>
+         <value>//div[@onclick='toggleProfileSection()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.prof_img_icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>dcc8eec0-224a-450c-b9b2-e426930d3bcc</webElementGuid>
+      <webElementGuid>4e0aae2f-9a4f-4a63-a407-0750f8d0255f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +35,15 @@
       <name>class</name>
       <type>Main</type>
       <value>prof_img_icon</value>
-      <webElementGuid>dacfbc13-44c1-4030-ab34-6d214985b38a</webElementGuid>
+      <webElementGuid>6a48379b-5790-4c02-8004-9af74043f2e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;this-header&quot;)/div[@class=&quot;right_side_wrapper&quot;]/div[@class=&quot;hd_t_rght&quot;]/ul[@class=&quot;header_icons_ul&quot;]/li[2]/div[@class=&quot;head_ico_prof&quot;]/div[@class=&quot;prof_img_icon&quot;]</value>
-      <webElementGuid>426159f2-222b-4a34-87cd-1c037ef58b03</webElementGuid>
+      <value>//div[@onclick='toggleProfileSection()']</value>
+      <webElementGuid>a9952caa-d700-4a52-b4a6-02370a97ac9c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='this-header']/div[2]/div[2]/ul/li[2]/div/div</value>
-      <webElementGuid>e044fe63-398c-4512-9cbb-779a8164b639</webElementGuid>
+      <webElementGuid>dc030ac7-c571-4d03-8d1d-a649b30dc381</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/following::div[2]</value>
-      <webElementGuid>11e53769-0218-49c8-931b-9f46829d0ad7</webElementGuid>
+      <webElementGuid>a9903d1f-4253-4538-948f-83c5837ff513</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::div[1]</value>
-      <webElementGuid>089e9725-0850-4c5b-aac9-6aa2cb6c9171</webElementGuid>
+      <webElementGuid>16eec90e-2a17-4846-830d-c94b3c9538bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[3]</value>
-      <webElementGuid>8d61d9d1-30a7-4715-b26e-4d2c3b94534d</webElementGuid>
+      <webElementGuid>308f4e29-e982-47cf-be70-5f446fa26ee0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +83,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/div</value>
-      <webElementGuid>9974ad2f-9f66-4037-8dbf-805ae27516d0</webElementGuid>
+      <webElementGuid>44c6dcd2-21cd-432b-bfbb-b10ec0bd2b67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
