@@ -70,8 +70,7 @@ WebUI.switchToWindowIndex(currentWindow + 1)
 
 WebUI.navigateToUrl(user_profile)
 
-WebUI.waitForElementHasAttribute(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 
-    'Type', 5)
+WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 'Verify that the attribute is text'
 WebUI.verifyElementAttributeValue(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 
