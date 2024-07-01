@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>8f869a8c-80ff-46c6-85a8-a055f9de5dec</webElementGuid>
+      <webElementGuid>afa3f5f8-af56-4c55-b7d8-8c213fd0e158</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>far fa-angle-down</value>
-      <webElementGuid>6e30e25e-22b1-4587-9fe1-20dc3cf6e4b0</webElementGuid>
+      <webElementGuid>0c58b7bc-e304-4a66-b16a-963c4cd31e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4bb9cfb0-d953-476a-8b9d-bd25e3c7a07d</webElementGuid>
+      <webElementGuid>d25a3b7d-5daa-4777-abfd-9a955016f763</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,15 +47,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bisadmin-container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-4 col-lg-6 col-md-12 col-sm-12&quot;]/div[@class=&quot;settings-item-wrapper&quot;]/div[@class=&quot;settings-item-head&quot;]/div[@class=&quot;settings-item-right-side&quot;]/span[@class=&quot;toggle-arrow arrow-down&quot;]/i[@class=&quot;far fa-angle-down&quot;]</value>
-      <webElementGuid>acc0d49f-097b-48d7-8021-6c7308dd6f00</webElementGuid>
+      <webElementGuid>5e258dfc-27bc-4218-90b1-fbf5d20088b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='bisadmin-container']/div[2]/div/div/div/div[2]/span/i</value>
-      <webElementGuid>cb4b3164-8008-4d46-9719-1dcc32875ac1</webElementGuid>
+      <webElementGuid>f0524338-a620-44c4-8554-7438944b5298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/span/i</value>
-      <webElementGuid>b33008e3-27d5-487d-9c7f-87c831ac1981</webElementGuid>
+      <webElementGuid>712e6233-efe7-4b81-a160-ed7e133db42f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='reactRoot']/div/header/div/div[2]/div/a/i</value>
-      <webElementGuid>e16c8c7a-c07b-4026-927a-f5885583f9db</webElementGuid>
+      <webElementGuid>b39075c6-6712-4900-98b5-ec715ae6d09b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a/i</value>
-      <webElementGuid>e35b3a05-48d3-4800-ac75-b402029d45dc</webElementGuid>
+      <webElementGuid>21fe3146-52db-4de5-a1df-2f479ca84a50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

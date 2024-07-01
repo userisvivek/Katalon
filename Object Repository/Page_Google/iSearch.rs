@@ -6,16 +6,16 @@
    <elementGuidId>f2d9c381-759c-4f97-a5aa-b42b876ad752</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@name='searchText']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value>div.col-sm-offset-4.col-sm-8 > div.input-group > input.form-control</value>
+         <value>input[name=&quot;searchText&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@name = 'btnK' and @type = 'submit']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@value='ThisIsNotAPassword']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -27,15 +27,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>260651ce-87c9-4da3-99b1-e8c5b4d7582b</webElementGuid>
+      <webElementGuid>5a6482c2-828f-4396-95aa-34d8a8647019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>fccdb1f8-07ff-4b95-83b0-c0a3ee6fabdf</webElementGuid>
+      <value>bis_search_in</value>
+      <webElementGuid>ca16a180-7a7b-4442-b40a-7e887266df74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,8 +58,8 @@
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>btnK</value>
-      <webElementGuid>f69904cd-a06d-4b41-aaef-a39b2a541206</webElementGuid>
+      <value>searchText</value>
+      <webElementGuid>7d2d166d-bfcf-42f6-9588-d67f960147c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c98809e0-5476-4900-aa18-15000a55bd4a</webElementGuid>
+      <webElementGuid>78de67cd-2ab6-49ad-b906-a5ab6584b0ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,16 +98,16 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-3 col-sm-6&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;alert alert-info&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-offset-4 col-sm-8&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>928bbbf0-b5c3-417b-a741-65998b9ddffa</webElementGuid>
+      <value>id(&quot;this-header&quot;)/div[@class=&quot;right_side_wrapper&quot;]/div[@class=&quot;hd_t_rght_ser&quot;]/div[@class=&quot;bis_header_search&quot;]/form[1]/input[@class=&quot;bis_search_in&quot;]</value>
+      <webElementGuid>9af21a38-106d-47ac-bd9b-85044424a7d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>061ccd0e-0ea4-423d-b286-9fe00430091e</webElementGuid>
+      <value>Search User</value>
+      <webElementGuid>6cb91df7-948f-4e0a-9da3-3b5197ff416a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,6 +119,62 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='searchText']</value>
+      <webElementGuid>36b0420f-6064-43f4-a3b1-7bd3809f7611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='this-header']/div[2]/div/div/form/input</value>
+      <webElementGuid>0b8fb6b0-201b-470c-b344-7a0ef0a1c2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>11ccd361-082c-4b28-b15a-b35269936e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search User' and @name = 'searchText']</value>
+      <webElementGuid>7e415747-035a-4726-8586-32b73aafde15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[11]</value>
+      <webElementGuid>4afbc588-a811-4b81-84a0-611ea7dd2571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/input</value>
+      <webElementGuid>654200ad-3b9d-4e8c-8773-8aab26a2bbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter User' and @type = 'text']</value>
+      <webElementGuid>a6595093-24f1-4cbc-a3e4-efff545efb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -168,42 +224,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>1a94be24-199e-4eba-afb0-3a016a479060</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Username']</value>
       <webElementGuid>1891ef83-6781-449b-98c0-4e2e73a7e5a2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//input[@value=''])[11]</value>
-      <webElementGuid>053aec65-25e5-4fde-9370-43a670a43185</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/input</value>
-      <webElementGuid>ca3897e3-265e-4255-969e-3cf45d903a57</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@placeholder = 'Enter User' and @type = 'text']</value>
-      <webElementGuid>35d24d30-eaae-40e5-972d-48f25c79beaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

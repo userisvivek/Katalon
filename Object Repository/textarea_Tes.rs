@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Save</name>
+   <name>textarea_Tes</name>
    <tag></tag>
-   <elementGuidId>668cee6f-7a1d-4cc2-bdb7-72e5ad218a13</elementGuidId>
+   <elementGuidId>14c3bf30-f81b-45fb-8b5e-96c0c1aa3b50</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.popup-buttons.show > button.btn.btn-success</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::textarea[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[text()='Save']</value>
+         <key>CSS</key>
+         <value>textarea.form-control.form-control-lg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,103 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c7bcaca0-069c-42d0-8b3b-4bc387d8d490</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>ed62d91d-25d1-46ac-96d8-1822f27b6609</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>f888a0fa-b6c2-4574-8bc6-2cbe563bce1a</webElementGuid>
+      <value>(Optional)</value>
+      <webElementGuid>fbcddcb5-3b29-48aa-9510-9f62b76153f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-success</value>
-      <webElementGuid>2e6bd717-7ebd-4c2d-bb72-b3e288af472f</webElementGuid>
+      <value>form-control form-control-lg</value>
+      <webElementGuid>3fa1317a-b956-42a5-af82-94b577716a69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Save</value>
-      <webElementGuid>909f3d0e-6837-4c09-bccf-7b00e3a85a6a</webElementGuid>
+      <value>Tes</value>
+      <webElementGuid>08d28388-7176-4ff7-b8a8-a7ff6f520920</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;bisadmin-form-container&quot;)/div[@class=&quot;popup-buttons-container&quot;]/div[@class=&quot;popup-buttons show&quot;]/button[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>a5183171-8a2b-4e8b-b544-18193ccdb76f</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-group&quot;]/textarea[@class=&quot;form-control form-control-lg&quot;]</value>
+      <webElementGuid>3e2558e8-1566-4132-9229-f8e0dce7fca7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>a5817ea3-709a-46e2-bfbc-ad59f1de06d3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='bisadmin-form-container']/div[2]/div/button[2]</value>
-      <webElementGuid>4c2b0571-bccc-4ecd-88f3-6f43d9596d02</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::textarea[1]</value>
+      <webElementGuid>7e051167-0d49-486b-ae6b-21d11fe8affb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
-      <webElementGuid>ce507b21-5160-4aed-bd11-4e7315dadf22</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username is required.'])[1]/following::textarea[1]</value>
+      <webElementGuid>ce2a6cf5-c37b-4539-8a97-ee02979e4eb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[18]/following::button[2]</value>
-      <webElementGuid>111652ca-624f-4c66-9974-4f69c4dbaba0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>bd444fb5-2b2a-47ab-9e58-693b9aa02ac1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::button[2]</value>
-      <webElementGuid>408e24e0-eee7-4afd-8cc6-f038ad05b6e7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[4]/preceding::textarea[1]</value>
+      <webElementGuid>b7bd1722-fea2-47cb-b4e0-8dfaa81cdc8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
-      <webElementGuid>874d9747-f45b-40ee-8cdc-4f53174e65ff</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tes']/parent::*</value>
+      <webElementGuid>c185aa07-8594-485e-90ec-2983de7291ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button[2]</value>
-      <webElementGuid>4f3cb780-d835-4142-8614-eebb168724ac</webElementGuid>
+      <value>//div[3]/textarea</value>
+      <webElementGuid>4fe41bf4-a49e-4fb6-98e1-2293a8efdc97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>62e12993-0474-498c-a781-cae3197f8fca</webElementGuid>
+      <value>//textarea[@placeholder = '(Optional)' and (text() = 'Tes' or . = 'Tes')]</value>
+      <webElementGuid>b6a8734c-9bae-4e13-aa13-fe19d119430c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

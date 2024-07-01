@@ -59,6 +59,8 @@ if ('switch-slider checked '.equals(bday)) {
     WebUI.waitForElementPresent(findTestObject('Page_Safety Software/Page_eLearning System - Admin/button_Save'), 30)
 
     WebUI.click(findTestObject('Page_Safety Software/Page_eLearning System - Admin/button_Save'))
+
+    WebUI.delay(5)
 }
 
 WebUI.executeJavaScript('window.open();', [])
@@ -69,7 +71,7 @@ WebUI.switchToWindowIndex(currentWindow + 1)
 
 WebUI.navigateToUrl(user_profile)
 
-WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
+WebUI.scrollToElement(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 5)
 
 'Verify that the attribute is text'
 WebUI.verifyElementAttributeValue(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 

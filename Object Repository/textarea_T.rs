@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Admin</name>
+   <name>textarea_T</name>
    <tag></tag>
-   <elementGuidId>7085bd76-6d07-4580-b5cb-eff783414d3b</elementGuidId>
+   <elementGuidId>a52562a6-134b-404f-bb4e-c75dc12ebe0b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='menu-admin']/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::textarea[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#menu-admin > span.text_bis.show</value>
+         <value>textarea.form-control.form-control-lg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,103 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>ed5b3791-6dfd-4c6c-9db9-7028b235485b</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>3cc56e93-dbb4-442c-914b-f936b6018b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>(Optional)</value>
+      <webElementGuid>f55021e2-a906-4636-a3ae-7c34990774f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text_bis show</value>
-      <webElementGuid>ad78a501-ce85-41ac-9f90-ad35bd88f650</webElementGuid>
+      <value>form-control form-control-lg</value>
+      <webElementGuid>fb804b3c-306b-4e4c-bc43-b235ef760d52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Admin</value>
-      <webElementGuid>e2a9ab43-0736-4c57-9288-4a241180ff3f</webElementGuid>
+      <value>T</value>
+      <webElementGuid>c6d2abd9-c91f-4a92-b1a8-4eea847bae39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-admin&quot;)/span[@class=&quot;text_bis show&quot;]</value>
-      <webElementGuid>c81f41e7-28ef-4497-8adf-9dea77990159</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-group&quot;]/textarea[@class=&quot;form-control form-control-lg&quot;]</value>
+      <webElementGuid>38bf73f9-2b42-449a-85bf-506f14b49928</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[@id='menu-admin']/span</value>
-      <webElementGuid>1ac9ba6e-f151-41b5-acfd-e4a0d1832b3a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::textarea[1]</value>
+      <webElementGuid>9fe4232e-4c54-46ab-8852-3f07a42d7f75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='QR'])[1]/following::span[1]</value>
-      <webElementGuid>53e863d4-014d-4411-beb8-b12a39d29f6d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username is required.'])[1]/following::textarea[1]</value>
+      <webElementGuid>93bee1fe-59a2-4fcd-8623-bc1030f1b212</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Folders'])[1]/following::span[2]</value>
-      <webElementGuid>e10c974f-6348-484b-962e-ec1ac8f5304a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>21a69670-7fe3-4322-93ff-340fcffd04a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::span[1]</value>
-      <webElementGuid>e90725c4-4347-485c-ac34-3238198788f4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[4]/preceding::textarea[1]</value>
+      <webElementGuid>70101d68-cfad-49f1-bd5a-db212e1245d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[2]/preceding::span[2]</value>
-      <webElementGuid>7113149c-f2d2-4fda-a1f6-b5c523076b3d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Admin']/parent::*</value>
-      <webElementGuid>3b61c4fb-572b-4ee1-88ac-19dcda0b3415</webElementGuid>
+      <value>//*/text()[normalize-space(.)='T']/parent::*</value>
+      <webElementGuid>6a6133e7-779c-4b81-bc8d-2377c5f1366e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[11]/a/span</value>
-      <webElementGuid>c5ef4865-bc71-4e31-b71a-54f0847eadb9</webElementGuid>
+      <value>//div[3]/textarea</value>
+      <webElementGuid>78f584b3-93d8-4461-9862-95286eff8128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Admin' or . = 'Admin')]</value>
-      <webElementGuid>aa993aff-ac6f-48dc-9716-1b50f5fbbfed</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[12]/a/span</value>
-      <webElementGuid>7eae8a16-349e-40b0-bbf6-1f38aab02d41</webElementGuid>
+      <value>//textarea[@placeholder = '(Optional)' and (text() = 'T' or . = 'T')]</value>
+      <webElementGuid>ab8663f2-32f6-488d-bf0f-773290bccd85</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

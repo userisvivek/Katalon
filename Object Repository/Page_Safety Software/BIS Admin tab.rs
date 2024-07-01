@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d4898d71-6600-4557-ac74-9f5033448440</webElementGuid>
+      <webElementGuid>ea109f0f-a7bd-498f-a23e-e423cc3a80e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>menu-text-BISAdmin</value>
-      <webElementGuid>53d79cdb-547a-4a26-ac82-b9c4dc09bed2</webElementGuid>
+      <webElementGuid>88bc9b97-59d6-4403-bace-186b5ba0c0a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-text reveal</value>
-      <webElementGuid>82eb4dd8-208d-4f84-ab25-75e058f6ea97</webElementGuid>
+      <webElementGuid>1e68ec90-e3e6-48bd-9f77-4b2899209183</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>BIS Admin</value>
-      <webElementGuid>d25190ce-fbcd-41c3-a5ce-b3fc228775dc</webElementGuid>
+      <webElementGuid>77904311-29a2-4505-bc0a-bfae3ec6cb8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-text-BISAdmin&quot;)</value>
-      <webElementGuid>2df07e6f-8c2a-4ab9-ac91-f36343d988b8</webElementGuid>
+      <webElementGuid>3f15d795-4f50-4f3a-a356-ddc9e29fdcb1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='menu-text-BISAdmin']</value>
-      <webElementGuid>73fe7e5f-b218-446b-b8c7-c95f0f432b59</webElementGuid>
+      <webElementGuid>4461c18c-806e-4d9e-88d8-cfd6bbc2cc8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu-items-container']/div[7]/div</value>
-      <webElementGuid>8b678be5-7c6d-4573-b0d2-79e09c8abfa1</webElementGuid>
+      <webElementGuid>c64e0239-72f6-4748-aee9-955b0c6d4533</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Integration'])[1]/following::div[2]</value>
-      <webElementGuid>4d5bab80-d8ef-4e3b-a54e-eadd932936ba</webElementGuid>
+      <webElementGuid>972f3afc-4644-49cc-bf88-c78d247bbff4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Management'])[1]/following::div[4]</value>
-      <webElementGuid>b2438153-dbd7-4d56-9a35-1bf9488c1762</webElementGuid>
+      <webElementGuid>84117580-f2bf-4025-96f8-78900910e9ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::div[1]</value>
-      <webElementGuid>8c72df1e-00e8-49ee-b76c-493d40214cd7</webElementGuid>
+      <webElementGuid>05b33211-d8b2-450b-b17d-b0d9dfe530fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Information'])[2]/preceding::div[3]</value>
-      <webElementGuid>8c4fec2e-9d8e-4a17-9c19-dc4e7604483f</webElementGuid>
+      <webElementGuid>d301a8d4-7270-44eb-9406-eae55091dfa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BIS Admin']/parent::*</value>
-      <webElementGuid>59b17438-ca42-43f4-9368-0f8a6e33dfda</webElementGuid>
+      <webElementGuid>ace41fc4-ab52-494a-bfb7-45e85bf62ed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div</value>
-      <webElementGuid>10100fde-6d4e-4023-8a77-618d1e04bf60</webElementGuid>
+      <webElementGuid>16f03275-3899-445c-b82c-06f960003d50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'menu-text-BISAdmin' and (text() = 'BIS Admin' or . = 'BIS Admin')]</value>
-      <webElementGuid>c6978aea-55a1-45db-aa08-e74641513509</webElementGuid>
+      <webElementGuid>92489331-c96f-46c2-be64-aa622be337a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
