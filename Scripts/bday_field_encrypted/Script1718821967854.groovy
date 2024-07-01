@@ -61,7 +61,7 @@ if ('switch-slider unchecked '.equals(bday)) {
 
     WebUI.click(findTestObject('Page_Safety Software/Page_eLearning System - Admin/button_Save'))
 
-    WebUI.delay(5)
+    WebUI.delay(10)
 }
 
 WebUI.executeJavaScript('window.open();', [])
