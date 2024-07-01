@@ -69,9 +69,9 @@ currentWindow = WebUI.getWindowIndex()
 
 WebUI.switchToWindowIndex(currentWindow + 1)
 
-WebUI.delay(5)
-
 WebUI.navigateToUrl(user_profile)
+
+WebUI.waitForAngularLoad(5)
 
 WebUI.scrollToElement(findTestObject('Page_Safety Software/Page_eLearning System - Admin/input_Birthdate_BirthDate'), 5)
 
