@@ -60,7 +60,7 @@ if ('switch-slider checked '.equals(bday)) {
 
     WebUI.click(findTestObject('Page_Safety Software/Page_eLearning System - Admin/button_Save'))
 
-    WebUI.delay(10)
+    WebUI.delay(5)
 }
 
 WebUI.executeJavaScript('window.open();', [])
@@ -68,6 +68,8 @@ WebUI.executeJavaScript('window.open();', [])
 currentWindow = WebUI.getWindowIndex()
 
 WebUI.switchToWindowIndex(currentWindow + 1)
+
+WebUI.delay(5)
 
 WebUI.navigateToUrl(user_profile)
 
